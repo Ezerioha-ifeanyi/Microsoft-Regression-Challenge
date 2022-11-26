@@ -2,7 +2,7 @@
 
 Predicting the selling price of a residential property depends on a number of factors, including the property age, availability of local amenities, and location.
 
-- In this challenge, you will use a dataset of real estate sales transactions to predict the price-per-unit of a property based on its features. The price-per-unit in this data is based on a unit measurement of 3.3 square meters.
+- In this challenge, I used a dataset of real estate sales transactions to predict the price-per-unit of a property based on its features. The price-per-unit in this data is based on a unit measurement of 3.3 square meters.
 
 - Citation: The data used in this exercise originates from the following study:
 
